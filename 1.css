@@ -1,0 +1,60 @@
+      *{
+			padding: 0;
+			margin: 0;
+
+		}
+		.Menu-bar{
+			background-color: rgb(230, 92, 0);
+			text-align: right;
+		}
+		.Menu-bar ul{
+			list-style: none;
+			display: inline-flex;
+			color: white;
+		}
+		.Menu-bar ul li{
+			width: 50px;
+			margin: 5px;
+			padding: 10px;
+			font-size: 10px;
+		} 
+		.Menu-bar a{
+			list-style: none;
+			text-decoration: none;
+			display:inline-flex;
+			color: white;
+		}
+        .Menu-bar p{
+        	float: left;
+        	margin: 5px;
+        	padding: 10px;
+        }
+        .Menu-bar1{
+        	background-color: rgb(255, 99, 71, 0.5);
+        	text-align: center;
+        }
+		.Menu-bar1 ul {
+			list-style: none;
+			display: inline-flex;
+			color: white;
+		}
+
+		.Menu-bar1 ul li{
+			width: 60px;
+			margin: 30px;
+			padding:20px;
+			font-size: 10px;
+		}
+		.Menu-bar1 ul img{
+			height:50px; 
+			margin: 40px;
+		}
+       .Menu-bar1 a{
+       	list-style: none;
+        display: inline-flex;
+        color: white;
+        text-decoration: none;
+
+
+       }
+		

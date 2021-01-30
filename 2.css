@@ -1,0 +1,11 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+address{
+	background-color:powderblue;
+	font-size: 20px;
+	list-style-type: circle;
+	text-align: center;
+	
+	}
